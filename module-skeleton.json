@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-app-marketplace-vue-inertia",
+  "capabilityKey": "planned:ecommerce:app-marketplace",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-app-marketplace-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/app-marketplace.md",
+  "presentationPlan": "projects/ecommerce/vue/app-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
